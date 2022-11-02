@@ -2,15 +2,14 @@ Hi there 👋, My name is Batool Zehra.
 
 An experienced Software developer with a demonstrated history of working in the Information technology and services industry. Skilled in Technical support, Software development & Mobile App development.
 
-- 👀 I’m looking for Fulltime and Part-time Jobs in all over Germany.
+- 👀 I’m looking for Fulltime and Part-time Jobs with On-Site, Remote and Hybrid working from all over Germany.
 
 - Skills: Languages => HTML, CSS, Javascript, Bootstrap
-- Frameworks => ReactJS, VueJs, Symfony
+- Frameworks => ReactJS, VueJs
 - Backend => PHP, Java
-- API Development
 - Agile Methodology
 - Databases => MySQL, SQL Server, MongoDB
-- CMS => Drupal, Typo3, Wordpress
+- CMS => Wordpress, Wix, Drupal, Typo3.
 - Business => PowerBi, Google Analytics, S.E.O
 
 👩  I have Degree in computer engineering with 2.2 Deutsche Notensystem.
