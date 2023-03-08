@@ -12,7 +12,7 @@ An experienced Software developer with a demonstrated history of working in the 
 - CMS => Wordpress, Wix, Drupal, Typo3.
 - Business => PowerBi, Google Analytics, S.E.O
 
-👩  I have Degree in computer engineering with 2.2 Deutsche Notensystem.
+👩  I have Bachelors Degree in Computer Engineering with 2.2 Deutsche Noten.
 
 💼 1 years of experience in Frontend Developer and 1 year as Project Manager Associate.
 
