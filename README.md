@@ -14,9 +14,7 @@ An experienced Software developer with a demonstrated history of working in the 
 
 👩  I have Bachelors Degree in Computer Engineering with 2.2 Deutsche Noten.
 
-💼 1 years of experience in Frontend Developer and 1 year as Project Manager Associate.
-
-💼 6 months Part time work experience as Frontend Developer with "High Class Promotion Germany".
+💼 Experienced Contractual and Freelancer as Frontend Developer.
 
 🏆 Secured 2nd Position in IDEATHON competition on my Final Year Project.
 
